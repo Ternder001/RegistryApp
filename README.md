@@ -1,1 +1,2 @@
 # RegistryApp
+contractAddress = 0x519a69aE554ad2e983fdc6040e68f6Ae325DeaC0
